@@ -77,7 +77,6 @@ public class ChainedHashTable{
         while(val < n){
             val *= 2;
         }
-        //System.out.println(val);
         return val;
     }
     
